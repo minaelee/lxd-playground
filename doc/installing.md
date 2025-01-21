@@ -5,9 +5,13 @@ discourse: ubuntu:[Building&#32;custom&#32;LXD&#32;binaries&#32;for&#32;side&#32
 (installing)=
 # How to install LXD
 
-```{only} integrated
+````{only} integrated
+
+```{warning}
 Some text that should only appear in the LXD docs integrated with MicroCloud.
 ```
+
+````
 
 The easiest way to install LXD is to {ref}`install one of the available packages <installing-from-package>`, but you can also {ref}`install LXD from the sources <installing-from-source>`.
 
