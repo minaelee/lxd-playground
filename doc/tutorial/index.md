@@ -3,8 +3,8 @@
 
 ````{only} integrated
 
-```{info}
-MicroCloud users should disregard the instructions on this page as irrelevant to a MicroCloud setup.
+```{note}
+MicroCloud users should disregard the instructions on this page. They are irrelevant to a MicroCloud setup.
 ```
 
 ````
