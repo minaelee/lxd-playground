@@ -3,17 +3,15 @@
 
 ````{only} integrated
 
-```{info}
+```{note}
 If you use LXD through MicroCloud, MicroCloud handles the LXD initialization process for you, and you can ignore the instructions on this page. 
 ```
 
-````
-
-```{warning}
+```{note}
 This page is not relevant to MicroCloud users.
 ```
 
-```{warning}
+```{note}
 MicroCloud users should disregard the instructions on this page as irrelevant to a MicroCloud setup.
 ```
 

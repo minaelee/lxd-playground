@@ -7,7 +7,7 @@ discourse: ubuntu:[Building&#32;custom&#32;LXD&#32;binaries&#32;for&#32;side&#32
 
 ````{only} integrated
 
-```{warning}
+```{note}
 Some text that should only appear in the LXD docs integrated with MicroCloud.
 ```
 
