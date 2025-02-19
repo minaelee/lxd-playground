@@ -4,7 +4,7 @@
 ````{only} integrated
 
 ```{note}
-MicroCloud users should disregard the instructions on this page. They are irrelevant to a MicroCloud setup.
+MicroCloud users can disregard the instructions on this page, because MicroCloud setup handles the installation and initialization of LXD.
 ```
 
 ````
