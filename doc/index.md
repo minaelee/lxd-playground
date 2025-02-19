@@ -1,10 +1,6 @@
----
-relatedlinks: '[Run&#32;system&#32;containers&#32;with&#32;LXD](https://canonical.com/lxd), [Open&#32;source&#32;for&#32;beginners:&#32;setting&#32;up&#32;your&#32;dev&#32;environment&#32;with&#32;LXD](https://ubuntu.com/blog/open-source-for-beginners-dev-environment-with-lxd)'
----
-
 # LXD
 
-LXD (<a href="#" title="Listen" onclick="document.getElementById('player').play();return false;">`[lɛks'di:]`&#128264;</a>) is a modern, secure and powerful system container and virtual machine manager.
+This is the stable-5.21 branch.
 
 <audio id="player"><source src="_static/lxd.mp3" type="audio/mpeg"></audio>
 
